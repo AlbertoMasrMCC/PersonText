@@ -1,4 +1,0 @@
-pip install flask
-pip install flask_cors
-pip install tensorflow
-pip install numpy
